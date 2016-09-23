@@ -2,6 +2,7 @@ Work Experience
 ===
 
 2014 | Co-Founder, hardware engineer, full-stack developer | Bankroll Bitcoin Miner
+
 Bankroll Wi-Fi hardware bitcoin miner and iPhone interface.
 - Developed schematic design, PCB design, back end services, and firmware support. 
 - Led fundraising negotiations and managed hardware development with contractor. 
@@ -25,6 +26,7 @@ Web developer - d.Life website
 - Coded and documented a website template to detail the d.Life series of d.School classes at Stanford University.
 
 2013 to 2014 | Regional organizer, event lead, evangelist for CodeDay | StudentRND
+
 Responsible for event planning of five CodeDays, hosting over 600 students attending 24 hour long coding events. During these events, over 100 unique projects have been made. Managed budget, secured volunteers, created compelling prizes, and mentored participants.
 - Supervised all planning and day-of event activities. Ensured all aspects of event management ran smoothly, kept students engaged and interested for 24 hours.
 - Taught programming workshops for beginner and experienced developers.
@@ -53,11 +55,13 @@ Responsible for representing SmartThings, a home automation hardware company, at
 - Expand the SmartThings Ambassador Program by recruiting other talented and passionate hardware hackers. 
 
 Achievements
+---
 Won 2 national software/hardware competitions 
 - Best Hardware Hack at PennApps, a U Penn hackathon, for building a smart kitchen. We created an internet-connected scale that automatically counted calories. I focused on circuit design, laser cut enclosure CAD, various code for hardware functionality and integration into our network.  
 - Grand Prize at HackTech, a Cal Tech hackathon, for building a smart home automation platform. I focused on: Node.js Back End, Spark hardware programming, Pebble integrations, and building our demo.
 
 Open source project contributions
+---
 - Pebble Watch Settings Framework, Developing framework to generate Pebble Watch configuration pages for app developers - Integrations, Back End, Embedded Code.
 - Natural Numeral Input, Visual software input device for LaTeX and other mathematical symbols.
 - Authored an open source Maker Space manifesto for the College of San Mateo.
@@ -68,5 +72,7 @@ Summer 2013, 2014 Fall 2014 | Attended three Thiel Fellowship Under 20 Summits
 2013 to present | Participant in over 20 hackathon competitions, have earned 7 top ranking awards
 
 Programming Skills | JavaScript, Node.js, HTML5, Linux, Less/CSS, Some Java, Some C, Some Swift, Some Objective-C.
+
 Hardware Skills | SolidWorks, soldering, Upvertor schematic and PCB design, Arduino, industrial laser cutting, 3d printing, Raspberry Pi, rapid prototyping products, and DigiKey BOMs. 
+
 Other Interests | Improvisational saxophone, kayaking, improvisational theater, biking
