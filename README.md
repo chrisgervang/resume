@@ -1,5 +1,4 @@
 #Chris Gervang
----
 San Francisco, CA • chris@gervang.com • (650) 714-8452
 
 ##Technical Skills
@@ -40,7 +39,7 @@ Notible integrations: Pebble, Particle Core, Sonos, WeMo Motion and Plug, Philip
 - Designed schematic and layout with Upverter for the first working core sensing circuit
 - Provisionally patented IP pertaining to visually determining fluid ratio in a container
 
-###2014 | Co-Founder, hardware engineer, full-stack developer | Bankroll Bitcoin Miner
+###2014 | Co-Founder, hardware engineer, full-stack developer | Bankroll Bitcoin miner
 Bankroll Wi-Fi hardware bitcoin miner and iPhone interface.
 - Developed schematic design, PCB design, back end services, and firmware support. 
 - Led fundraising negotiations and managed hardware development with contractor. 
@@ -73,7 +72,6 @@ Responsible for event planning of five CodeDays, hosting over 600 students atten
 - Planned and created venue layouts and environments to promote collaboration, productivity, and comfort.
 
 ##Other Work Experience
-
 - Using SolidWorks CAD software running industrial laser cutters, designed and produced laser-cut robot enclosures for Pebble Developer Conference 2014. 
 - Code Intern | Grimm Bros. Focused on programming production and pipeline tools. Advised in the planning of successful Kickstarter crowd funding campaign, and operated PAX Prime 2013 conference booth. 
 - Set up a $1 million digital media facility at Hillsdale High School. Developed a lighting studio, designed recording studio audio workflows, finalized a fiber optic network storage infrastructure, and taught faculty how to use the systems. 
@@ -107,5 +105,7 @@ Won 3 national software/hardware competitions
 ###2013 to present | Participant in over 20 hackathon competitions, have earned 7 top ranking awards
 
 Programming Skills | JavaScript, Node.js, HTML5, Linux, Less/CSS, Some Java, Some C, Some Swift, Some Objective-C.
+
 Hardware Skills | SolidWorks, soldering, Upvertor schematic and PCB design, Arduino, industrial laser cutting, 3d printing, Raspberry Pi, rapid prototyping products, and DigiKey BOMs. 
+
 Other Interests | Improvisational saxophone, kayaking, improvisational theater, biking
