@@ -8,23 +8,23 @@ San Francisco, CA • chris@gervang.com • (650) 714-8452
 **Experienced:** D3, NodeJS, Sketch, SQL Server, Electron, MongoDB 
 
 ##Recent applications
-###[Reflectrum](https://hackaday.io/project/9026-reflectrum-smart-mirror) | Software, Electrical & Mechanical Engineer
-A smart mirror that felt personal and designed for my partner's life
-- Constructed a wall-mounted computer with Fusion 360 which featured a observation glass display
-- Designed HCI electronics for the mirror using Arduino and mouse components 
-- Developed a SDK for mirror apps in ReactJS and shipped seven apps
-Also Used: Electron, Sketch, Bash, JSPM, Raspberry Pi
-
-###PCB Footprint Generator | Full-Stack Engineer & Designer
+###PCB Footprint Generator | Full-Stack Engineer & Designer | June 2016 to present
 A web app product for electrical engineers to quickly create part libraries with datasheets using computer vision
 - Developed prototype with a team of two in one week using Python Flask, OpenCV, PaperJS, JQuery
 - Lead front end architecture with Typescript, ReactJS, D3, and Redux
 - Designed UI which includes an interactive visualization tool for creating, editing, and reviewing part footprints
 Also Used: Sketch, Webpack, Stripe, Google OAuth, PageJS, Digital Ocean, Postgres
 
-###[Clyde](clyde.io) | Full-Stack Engineer & Buisness Lead
+###[Reflectrum](https://hackaday.io/project/9026-reflectrum-smart-mirror) | Software, Electrical & Mechanical Engineer | Nov 2015 to Jun 2016
+A smart mirror designed for my partner
+- Constructed a wall-mounted computer with Fusion 360 which featured an observation glass display
+- Designed HCI electronics for the mirror using Arduino and mouse components 
+- Developed a SDK for mirror apps in ReactJS and shipped seven apps
+Also Used: Electron, Sketch, Bash, JSPM, Raspberry Pi
+
+###[Clyde](clyde.io) | Full-Stack Engineer & Buisness Lead | Jan 2014 to June 2014
 An intuitive automation system that fit into a families lifestyle
-- Prototyped and lead a team of four at 1200 person CalTech hackathon in 36 hours; winning Grand Prize
+- Lead a team of four winning the Grand Prize at 1200 person CalTech hackathon
 - Engineered IoT integrations and back end with NodeJS and CouchDB
 - Accepted into Stanford FocusVC Accelerator; Gathered fundraising interest 
 - Lauched at the BA MakerFaire with pilot customer; invited by Pebble and Particle
@@ -32,8 +32,8 @@ Also Used: Digital Ocean, Raspberry Pi, Angular.js, Hapi.js
 Notible integrations: Pebble, Particle Core, Sonos, WeMo Motion and Plug, Philips Hue, Insteon
 
 ##Professional Experience
-###2014 to present | Full-Stack Engineer & Hardware Engineer | Tachyus
-- Developed UI/UX for energy optimization products using ReactJS, D3, and Typescript
+###Nov 2014 to present | Full-Stack Engineer & Hardware Engineer | Tachyus
+- Developed front end for energy optimization products using ReactJS, D3, and Typescript
 - Implemented back end APIs in F# and SQL Server
 - Lead firmware and lab automation written in Python for industrial water cut sensor
 - Designed schematic and layout with Upverter for the first working core sensing circuit
@@ -67,11 +67,6 @@ Responsible for event planning of five CodeDays, hosting over 600 students atten
 ###2014 | Cohort member of Stanford University CEO Accelerator, Focus.vc
 - Enrolled in 4-month program instructing on how to effectively run a business. Focused on patent law, financials, budgeting, fundraising, pitching, co-founder relationship development and team building
 - Presented a live demo and pitch for Clyde Home Automation to a room full of leading Bay Area venture capital investors
-
-###2014 | 1st Developer Ambassador for SmartThings
-Responsible for representing SmartThings, a home automation hardware company, at developer events, including CodeDay Silicon Valley 2014
-- Taught hardware workshops, and mentored students throughout the event
-- Expand the SmartThings Ambassador Program by recruiting other talented and passionate hardware hackers
 
 ###Achievements
 Won 3 national software/hardware competitions 
