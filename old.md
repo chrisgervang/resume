@@ -1,3 +1,5 @@
+Experience
+
 Regional Organizer, CodeDay San Francisco
 Company Name StudentRND
 Dates Employed Mar 2014 – May 2015  Employment Duration 1 yr 3 mos
@@ -46,3 +48,10 @@ Technical Consultant (Student)
 Company Name Hillsdale High School
 Dates Employed Jul 2011 – May 2012  Employment Duration 11 mos
 During my senior year, I was appointed by Hillsdale High School administration to support their new multi-million dollar digital media facilities. I learned how to use all of their equipment and software, created workflows and processes for teachers and the IT Department to follow, and trained staff on how to use the systems. My responsibilities included project management, troubleshooting, and mentoring the faculty. Staff members came to me with needs, and I designed projects to achieve their goals. Additionally, I worked with the school's IT Department to implement a private fiber optics network that allowed for remote managing of computers and data.
+
+Education
+College of San Mateo
+Dates attended or expected graduation 2012 – 2014
+
+Hillsdale High School
+Dates attended or expected graduation 2008 – 2012
